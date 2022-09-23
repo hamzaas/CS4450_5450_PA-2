@@ -18,7 +18,7 @@ II. Getting Started
 
 Log into GitHub and visit the following URL. 
 
-https://classroom.github.com/a/0PhGCquj
+https://classroom.github.com/a/_c-n70hS
 
 This will create for you a private repository on GitHub.  Log into student2.cs.appstate.edu, get into your 4450 or 5450 directory, and use the clone command to create the repository on the student2 machine.  The only thing provided for you is a .gitignore file and the file proxy.py that contains the main.  This code references two classes, proxyClient, and cacheDir.  You can rename these classes, use more classes, write the code in a procedural way instead of object-oriented, etc.   You are required to write easy to read, well-documented code, with small single-purpose functions.
 
