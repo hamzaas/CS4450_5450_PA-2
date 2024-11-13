@@ -164,6 +164,7 @@ You can test your code on the following:
 - cs.appstate.edu/hamzaas/CS4450/picture1.png
 - cs.appstate.edu/hamzaas/CS4450/picture2.jpg
 - cs.appstate.edu/hamzaas/CS4450/picture3.jpg
+  
 You don't need to handle any content types other than: text/html, image/png, and image/jpeg.
 
 Start early and ask questions when you need help.
